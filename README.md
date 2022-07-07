@@ -1,4 +1,4 @@
-## Intro to C++ I Lab 09
+## Intro to C++ I Lab 10
 
 Functions, Arrays, Parallel Arrays
 
